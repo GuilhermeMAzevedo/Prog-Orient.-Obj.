@@ -8,6 +8,7 @@ public class Main {
         //a3.somador();
         //AlgFund4 a4 = new AlgFund4();
         //a4.fatorial();
-
+        AlgFund5 a5 = new AlgFund5();
+        a5.somaInfinita();
     }
 }
