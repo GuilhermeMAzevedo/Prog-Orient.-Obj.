@@ -15,9 +15,11 @@ public class Main {
         //AlgFund5 a5 = new AlgFund5();
         //a5.somaInfinita();
 
-        AlgFund6 a6 = new AlgFund6();
-        a6.fibonacci();
+        //AlgFund6 a6 = new AlgFund6();
+        //a6.fibonacci();
 
+        AlgFund7 a7 = new AlgFund7();
+        a7.inversao();
 
 
     }

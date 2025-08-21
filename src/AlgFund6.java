@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class AlgFund6 {
     public void fibonacci() {
         Scanner prompt = new Scanner(System.in);
+        System.out.println("Digite quantos elementos da sequencia de fibonacci sejam mostrados:");
         byte n = prompt.nextByte();
         byte i = 0;
         byte fia2 = 0;
