@@ -18,8 +18,15 @@ public class Main {
         //AlgFund6 a6 = new AlgFund6();
         //a6.fibonacci();
 
-        AlgFund7 a7 = new AlgFund7();
-        a7.inversao();
+        //AlgFund7 a7 = new AlgFund7();
+        //a7.inversao();
+
+        AlgFund8 a8 = new AlgFund8();
+        a8.binario();
+
+
+
+
 
 
     }
