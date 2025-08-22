@@ -21,9 +21,11 @@ public class Main {
         //AlgFund7 a7 = new AlgFund7();
         //a7.inversao();
 
-        AlgFund8 a8 = new AlgFund8();
-        a8.binario();
+        //AlgFund8 a8 = new AlgFund8();
+        //a8.binario();
 
+        //AlgFund9 a9 = new AlgFund9();
+        //a9.conversao();
 
 
 
