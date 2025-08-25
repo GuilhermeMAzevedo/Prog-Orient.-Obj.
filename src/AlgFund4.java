@@ -12,6 +12,6 @@ public class AlgFund4 {
             fator = (byte)(i * fator);
             i++;
         }
-        System.out.println("Resultado de " + n + "! :" + fator);
+        System.out.println("Resultado de " + n + "! : " + fator);
     }
 }

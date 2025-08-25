@@ -8,7 +8,7 @@ public class AlgFund8 {
         byte n = prompt.nextByte();
         byte q = n;
         byte ndig = 0;
-        int[]binarios = new int[32];
+        int[]binarios = new int[64];
         byte r;
         while (q > 0){
             r = (byte)(q % 2);
@@ -26,6 +26,7 @@ public class AlgFund8 {
                 ndig--;
             }
         }
+        System.out.println();
 
     }
 }

@@ -21,5 +21,6 @@ public class AlgFund6 {
 
             i++;
         }
+        System.out.println();
     }
 }

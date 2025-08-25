@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class AlgFund9 {
     public void conversao(){
         Scanner prompt = new Scanner(System.in);
-        System.out.println("Digite o numero inteiro");
+        System.out.println("Digite o texto");
         String numero = prompt.next();
         int n = numero.length();
         int[]decimal = new int[numero.length()];
         char letra;
         long digito;
         byte i = 0;
-        System.out.print("Formato decimal: ");
+        System.out.print("Formato decimal (ASCII): ");
         while (i < n){
             letra = numero.charAt(i);
             digito = ((long) letra);
